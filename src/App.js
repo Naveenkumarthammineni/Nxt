@@ -1,4 +1,4 @@
-import {ProtectedRoute, Switch, Redirect} from 'react-router-dom'
+import {Switch, Redirect} from 'react-router-dom'
 import {Component} from 'react'
 
 import Login from './components/login'
